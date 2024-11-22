@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For Arduino_BOSCH_BMI270
+####################################### 
+# Class
+#######################################
+
+bosch_bmi270  KEYWORD1
+Data          KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+initialize  KEYWORD2
+terminate   KEYWORD2
+
+enableInterrupt    KEYWORD2
+disableInterrupt   KEYWORD2
+
+acceleration              KEYWORD2
+angularrate               KEYWORD2
+magneticfield             KEYWORD2
+
+accelerationAvailable     KEYWORD2
+angularrateAvailable      KEYWORD2
+magneticfieldAvailable    KEYWORD2
+
+accelerationSampleRate    KEYWORD2
+angularrateSampleRate     KEYWORD2
+magneticfieldSampleRate   KEYWORD2
+
+#######################################
+# Constants
+#######################################
