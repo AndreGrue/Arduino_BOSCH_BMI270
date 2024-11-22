@@ -19,15 +19,12 @@ disableInterrupt   KEYWORD2
 
 acceleration              KEYWORD2
 angularrate               KEYWORD2
-magneticfield             KEYWORD2
 
 accelerationAvailable     KEYWORD2
 angularrateAvailable      KEYWORD2
-magneticfieldAvailable    KEYWORD2
 
 accelerationSampleRate    KEYWORD2
 angularrateSampleRate     KEYWORD2
-magneticfieldSampleRate   KEYWORD2
 
 #######################################
 # Constants
